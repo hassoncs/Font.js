@@ -725,7 +725,7 @@
         w = quad,
         h = quad,
         baseline = quad / 2,
-        padding = 150 + fontSize, // Leave enough room for scripty fonts
+        padding = 500, // Leave enough room for scripty fonts
         xpos = (quad - metrics.width) / 2;
 
     // SUPER IMPORTANT, HARDCORE NECESSARY STEP:
